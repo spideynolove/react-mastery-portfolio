@@ -9,7 +9,7 @@ Project Structure
 
 Getting Started
 
-Clone the repository: git clone https://github.com/yourusername/react-mastery-portfolio.git
+Clone the repository: git clone https://github.com/spideynolove/react-mastery-portfolio.git
 Install dependencies: npm install
 Run the project: npm start
 
